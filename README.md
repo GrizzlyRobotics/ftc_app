@@ -112,7 +112,7 @@ Changes with version 3.2 include:
 * Blocks Programming Development Tool:
     - Changed "LynxI2cColorRangeSensor" block to "REV Color/range sensor" block.
     - Fixed tooltip for ColorSensor.isLightOn block.
-    Added blocks for ColorSensor.getNormalizedColors and LynxI2cColorRangeSensor.getNormalizedColors.
+    Added blocks for ColorSensor.getNormalizedColors and LynxI2cColorRangeSensor.getNormalizedColors. 
 
 * Added example op modes for digital touch sensor and REV Robotics Color Distance sensor.
 * User selectable color themes.
