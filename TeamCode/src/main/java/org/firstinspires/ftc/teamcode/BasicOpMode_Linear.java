@@ -83,7 +83,7 @@ public class BasicOpMode_Linear extends LinearOpMode {
 
         leftArmServo = hardwareMap.servo.get("left Arm Servo");
         leftArmServo.setPosition(ARM_OPENING_POSITION);
-
+  
         // Wait for the game to start (driver presses PLAY)
         waitForStart();
         runtime.reset();
