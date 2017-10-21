@@ -67,7 +67,7 @@ import org.firstinspires.ftc.robotcore.external.navigation.VuforiaTrackables;
  */
 
 @Autonomous(name="Concept: VuMark Id", group ="Concept")
-//@Disabled
+@Disabled
 public class ConceptVuMarkIdentification extends LinearOpMode {
 
     public static final String TAG = "Vuforia VuMark Sample";
@@ -102,7 +102,7 @@ public class ConceptVuMarkIdentification extends LinearOpMode {
          * random data. As an example, here is a example of a fragment of a valid key:
          *      ... yIgIzTqZ4mWjk9wd3cZO9T1axEqzuhxoGlfOOI2dRzKS4T0hQ8kT ...
          * Once you've obtained a license key, copy the string from the Vuforia web site
-         * and paste it in to your code onthe next line, between the double quotes.
+         * and paste it in to your code on the next line, between the double quotes.
          */
         parameters.vuforiaLicenseKey = "ASGxdl//////AAAAGSv6/70u4k60lnq7i2KxDlUuD5UeTMirttRwBuiLVuS0pUaIR9TZOPDN0FH88OZ5q9lBryWrPX3SI5ATzLpDny4ajKp4pBiAigqKTkMMPZeSxlZN7gVPcImrgfO+1/5JSY+PMb3i3+elUVtQlsitzGE+m41x3RsU7FCg2HGpdns5L2bKGKj3fFJu5pdRGTKcTFPXXhcZpdtS5rJJlaGnd3fDW4DCYl7dIycTl+XWi0kNslWOgzFkLMZnpqIaswTsjEBJYB2dZdPRt0PPXCi++nAKoiU4qdE5i6hIz9UhQt/ZCQTUdqVcAHrYMIoTf5XbntTwbtHvxXPwUWV3NY5z0kjNJT7qDE/kUYYebGNUoxLT\n";
 
